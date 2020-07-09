@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-10T00:16:29 GMT+03:00" name="Command line suite" finished-at="2020-07-10T00:17:39 GMT+03:00" duration-ms="70490">
+    <groups>
+    </groups>
+    <test started-at="2020-07-10T00:16:29 GMT+03:00" name="Command line test" finished-at="2020-07-10T00:17:39 GMT+03:00" duration-ms="70490">
+      <class name="company.name.positive.AuthenticationClientTest">
+        <test-method signature="authenticationClient()[pri:0, instance:company.name.positive.AuthenticationClientTest@48c40605]" started-at="2020-07-10T00:16:29 GMT+03:00" name="authenticationClient" finished-at="2020-07-10T00:17:08 GMT+03:00" duration-ms="39449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- authenticationClient -->
+      </class> <!-- company.name.positive.AuthenticationClientTest -->
+      <class name="company.name.positive.FirstPageTest">
+        <test-method signature="checkFirstPageTest()[pri:0, instance:company.name.positive.FirstPageTest@54107f42]" started-at="2020-07-10T00:17:09 GMT+03:00" name="checkFirstPageTest" finished-at="2020-07-10T00:17:39 GMT+03:00" duration-ms="30458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFirstPageTest -->
+      </class> <!-- company.name.positive.FirstPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
